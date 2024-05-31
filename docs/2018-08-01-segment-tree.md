@@ -1,13 +1,10 @@
 ---
 title: 线段树（Segment tree）
-layout: post
 date: '2018-08-01 22:04:32 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/15429725.jpg"
-comments: true
 ---
 
 一种区间操作算法。

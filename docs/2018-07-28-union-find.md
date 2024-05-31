@@ -1,13 +1,10 @@
 ---
 title: 并查集
-layout: post
 date: '2018-07-28 13:47:58 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/15429725.jpg"
-comments: true
 ---
 
 ## About algorithm

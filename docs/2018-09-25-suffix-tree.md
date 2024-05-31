@@ -1,13 +1,10 @@
 ---
 title: 后缀树
-layout: post
 date: '2018-09-25 22:47:46 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/5307140.jpg"
-comments: true
 ---
 
 详见:[Suffix tree](https://www.cnblogs.com/darkchii/p/9116558.html)

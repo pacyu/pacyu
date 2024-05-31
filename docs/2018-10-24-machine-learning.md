@@ -1,9 +1,11 @@
 ---
 title: 使用 sklearn 机器学习包
-layout: post
 date: '2018-10-24 22:34:16 +0800'
 tags:
 - Machine Leraning
+- Python
+categories:
+- Machine Learning
 - Python
 ---
 {{< katex >}}

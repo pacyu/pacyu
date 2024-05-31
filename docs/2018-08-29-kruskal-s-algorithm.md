@@ -1,13 +1,10 @@
 ---
 title: Kruskal's algorithm
-layout: post
 date: '2018-08-29 18:18:43 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/4201472.jpg"
-
 ---
 {{< katex >}}
 

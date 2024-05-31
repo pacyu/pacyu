@@ -1,13 +1,10 @@
 ---
 title: 高等数学-积分方程篇（持续更新）
-layout: post
 date: '2018-09-03 02:55:15 +0800'
 tags:
 - Math
 categories:
 - mathematical
-cover_index: "/assets/15429725.jpg"
-
 ---
 {{< katex >}}
 

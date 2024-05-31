@@ -1,6 +1,5 @@
 ---
 title: 梯度下降算法（更新于 2020/12/04）
-layout: post
 date: '2018-07-26 23:30:49 +0800'
 tags:
 - Math
@@ -9,9 +8,6 @@ tags:
 - Python
 categories:
 - algorithms
-math: true
-comments: true
-toc: true
 ---
 {{< katex >}}
 

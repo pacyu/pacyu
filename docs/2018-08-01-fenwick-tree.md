@@ -1,12 +1,10 @@
 ---
 title: 树状数组（Fenwick tree）
-layout: post
 date: '2018-08-01 21:46:03 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/61082747.jpg"
 ---
 
 树状数组是一种是常用于区间操作的算法。

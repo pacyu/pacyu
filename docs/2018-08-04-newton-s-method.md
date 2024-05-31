@@ -1,6 +1,5 @@
 ---
 title: 牛顿法(Newton's method)
-layout: post
 date: '2018-08-04 16:21:39 +0800'
 tags:
 - C/C++
@@ -8,12 +7,9 @@ tags:
 categories:
 - algorithms
 - mathematical
-cover_index: "/assets/222044074.jpg"
-math: true
-comments: true
-toc: true
 ---
 {{< katex >}}
+
 [牛顿法](https://en.wikipedia.org/wiki/Newton%27s_method)也是数值分析中很常见的算法了。嘛，网上对它的各种介绍也很多，但还是稍微说一下这个算法。
 
 对于方程 \\( f(x) = 0 \\)，初中的时候大部分的方程我们都可以使用求根公式解决，但实际上有许多方程我们很难求出它的根，于是只能用数值分析方法来逼近根值。基本原理:设 \\( y=f(x) \\) 在 \\( x \in [a,b] \\)  上连续，如果有 \\( f(a)f(b) < 0 \\)，则 \\( f(x), x \in (a, b) \\) 一定过零点（费马引理），那么 \\( f(x) \\) 在点 \\( x0, (a < x_0 < b)\\) 处的切线方程也过零点，根据 \\( f(x) \\) 曲线的类型：递增、递减、凸或凹，我们会发现起点的选择对于切线随着点向根方向移动时的效率也是不同的。

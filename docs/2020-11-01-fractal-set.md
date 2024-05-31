@@ -1,15 +1,12 @@
 ---
 title: 分形
 date: '2020-11-01 22:34:16 +0800'
-comments: true
 tags:
 - C/C++
 - Python
 - Math
 categories:
 - fractal
-math: true
-toc: true
 ---
 {{< katex >}}
 

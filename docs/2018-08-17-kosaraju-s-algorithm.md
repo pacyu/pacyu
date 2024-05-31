@@ -1,13 +1,10 @@
 ---
 title: Kosaraju's algorithm
-layout: post
 date: '2018-08-17 19:19:47 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/61142601.jpg"
-
 ---
 {{< katex >}}
 

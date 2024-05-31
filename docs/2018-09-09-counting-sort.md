@@ -1,14 +1,11 @@
 ---
 title: 计数排序
-layout: post
 date: '2018-09-09 20:38:06 +0800'
 tags:
 - C/C++
 - Sorting
 categories:
 - algorithms
-cover_index: "/assets/52183994.jpg"
-comments: true
 ---
 {{< katex >}}
 

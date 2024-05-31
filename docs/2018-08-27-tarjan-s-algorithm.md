@@ -1,13 +1,10 @@
 ---
 title: Tarjan's algorithm
-layout: post
 date: '2018-08-27 20:54:58 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/4953156.jpg"
-
 ---
 {{< katex >}}
 

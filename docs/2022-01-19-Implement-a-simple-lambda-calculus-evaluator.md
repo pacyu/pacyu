@@ -1,7 +1,6 @@
 ---
 title: Haskell 中实现一个简易的lambda 演算解释器
 date: '2022-01-19 22:34:16 +0800'
-description: "这是往主页中添加内容的例子。"
 tags:
 - Math
 - Haskell

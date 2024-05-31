@@ -1,7 +1,6 @@
 ---
 title: 数学家与证明
 date: '2021-08-18 22:34:16 +0800'
-description: "这是往主页中添加内容的例子。"
 tags:
 - Math
 categories:

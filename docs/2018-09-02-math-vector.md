@@ -1,13 +1,10 @@
 ---
 title: 高中数学-向量篇（持续更新）
-layout: post
 date: '2018-09-02 18:54:58 +0800'
 tags:
 - Math
 categories:
 - mathematical
-cover_index: "/assets/66981073.jpg"
-
 ---
 {{< katex >}}
 

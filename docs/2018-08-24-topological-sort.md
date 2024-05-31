@@ -1,13 +1,10 @@
 ---
 title: 拓扑排序
-layout: post
 date: '2018-08-24 18:30:07 +0800'
 tags:
 - C/C++
 categories:
 - algorithms
-cover_index: "/assets/4201472.jpg"
-
 ---
 {{< katex >}}
 
